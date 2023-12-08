@@ -1,4 +1,17 @@
+<h1 align="center">Hi 👋, I'm Priyanka Das Dipa</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+<p align="center">I am Priyanka Das Dipa, a recent graduate from North East University, Bangladesh. Over the past six months, I have been dedicatedly enhancing my skills in web development, with a focus on technologies such as React.js, Node.js, MongoDB, and the CSS framework Tailwind. I also have hands-on experience with various component libraries of Tailwind.</p>
+
+- 🌱 I’m currently learning **React, Node JS**
+
+- 🤝 I’m looking for  **An opportunity where I can deliver my skills and innovative ideas as a Web Developer.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Priyanka-Das-Dipa](https://github.com/Priyanka-Das-Dipa)
+
+- 💬 Ask me about **React JS**
+
+- 📫 How to reach me **priyankadipa9102@gmail.com**
 
 ## 📊 Current Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanka-Das-Dipa&theme=dark)
@@ -15,6 +28,7 @@
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-das-dipa-58327b285/)
 [![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/priyankadas.dipa.7/)
+[![Github](https://img.shields.io/badge/github-1A1F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-Das-Dipa)
 
 
 ## 📧 Contact/Reach Me
