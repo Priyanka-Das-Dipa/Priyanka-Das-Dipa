@@ -1,6 +1,7 @@
+![Alt Text](assests/banner_image.png)
+
 <h1 align="center">Hi 👋, I'm Priyanka Das Dipa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
 <p align="center">I am Priyanka Das Dipa, a recent graduate from North East University, Bangladesh. Over the past six months, I have been dedicatedly enhancing my skills in web development, with a focus on technologies such as React.js, Node.js, MongoDB, and the CSS framework Tailwind. I also have hands-on experience with various component libraries of Tailwind.</p>
 
 - 🌱 I’m currently learning **React, Node JS**
