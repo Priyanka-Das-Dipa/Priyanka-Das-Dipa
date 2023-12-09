@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Priyanka Das Dipa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="center">I am Priyanka Das Dipa, a recent graduate from North East University, Bangladesh. Over the past six months, I have been dedicatedly enhancing my skills in web development, with a focus on technologies such as React.js, Node.js, MongoDB, and the CSS framework Tailwind. I also have hands-on experience with various component libraries of Tailwind.</p>
------------------------------------
+
+
 - 🌱 I’m currently learning **React, Node JS**
 
 - 🤝 I’m looking for  **An opportunity where I can deliver my skills and innovative ideas as a Web Developer.**
@@ -32,6 +33,17 @@
 [![Github](https://img.shields.io/badge/github-1A1F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-Das-Dipa)
 
 
-## 📧 Contact/Reach Me
+## 💻 Projects:
+### Technology_And_Electronic
+🔗 Live Links
+---------------------------
+https://technology-and-electroni-8514d.web.app/
+
+#### Features of the project:
+- There is a signIn and signUp page
+- There is Google Authentication
+- There is a Add product route for registered  user can add data to the Database.
+- There is Add to Card option where user can add there product.
+- They can see their add to card product in Add Card route.
 
 
