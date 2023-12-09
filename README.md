@@ -33,8 +33,8 @@
 [![Github](https://img.shields.io/badge/github-1A1F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-Das-Dipa)
 
 
-## 💻 Projects:
-### Technology_And_Electronic
+# 💻 Projects:
+# Technology_And_Electronic
 🔗 Live Links
 ---------------------------
 https://technology-and-electroni-8514d.web.app/
@@ -46,4 +46,14 @@ https://technology-and-electroni-8514d.web.app/
 - There is Add to Card option where user can add there product.
 - They can see their add to card product in Add Card route.
 
+# The Career Maker
+🔗 Live Links
+---------------------------
+https://the-career-maker.web.app
+#### Features of the project:
+- This is a online service based website
+- There are some popular services
+- User can search the services by the name of a service
+- User can update and delete the services
+- User can check their schedule in the mySchedule route
 
