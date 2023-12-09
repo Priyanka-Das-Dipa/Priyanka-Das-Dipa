@@ -57,3 +57,11 @@ https://the-career-maker.web.app
 - User can update and delete the services
 - User can check their schedule in the mySchedule route
 
+# The Career Maker
+🔗 Live Links
+---------------------------
+https://summer-sale-green.vercel.app/
+#### Features of the project:
+- In this course registration project When you click the submit button the Price add to the cart.
+- In this course registration project When you click the submit button the credit hour add to the cart.
+- In this course registration project When you click the submit button the remaining hour show to the cart.
