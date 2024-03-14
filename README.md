@@ -41,9 +41,9 @@
 https://library-service-management-system.vercel.app/
 
 #### Features of the project:
-- Fully integrated lending page with navbar, banner, recommended and featured books, author section, and footer
-- Stripe integration for subscription payments in the pricing route
-- Backend pagination and search functionality for the all books page
+- Fully integrated lending page with navbar, banner, recommended and featured books, author section, and footer.
+- Stripe integration for subscription payments in the pricing route.
+- Backend pagination and search functionality for the all books page.
 - Dynamic display of author's books on details page.
 - Admin dashboard for managing users, books, writers, book requests, and membership requests.
 - Implemented secure user authentication system with login functionality, save user's info in database.
