@@ -70,7 +70,7 @@ https://the-career-maker.web.app
 - User can update and delete the services
 - User can check their schedule in the mySchedule route
 
-# The Career Maker
+# Summer Sale
 🔗 Live Links
 ---------------------------
 https://summer-sale-green.vercel.app/
