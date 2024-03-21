@@ -50,7 +50,7 @@ https://library-service-management-system.vercel.app/
 # Technology_And_Electronic
 🔗 Live Links
 ---------------------------
-https://technology-and-electroni-8514d.web.app/
+https://technology-and-electroni-8514d.firebaseapp.com/
 
 #### Features of the project:
 - There is a signIn and signUp page
