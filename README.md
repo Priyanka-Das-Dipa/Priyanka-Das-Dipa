@@ -1,16 +1,18 @@
-![Alt Text](assests/banner.png)
+![Alt Text](assests/banner_Image.jpg)
 
 <h1 align="center">Hi 👋, I'm Priyanka Das Dipa</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<p align="center">I am Priyanka Das Dipa, a recent graduate from North East University, Bangladesh. Over the past six months, I have been dedicated enhancing my skills in web development, with a focus on technologies such as React.js, Node.js, MongoDB, and the CSS framework Tailwind. I also have hands-on experience with various component libraries of Tailwind.</p>
 
-- 🌱 I’m currently learning **React, Node JS**
+<p align="center">A passionate Software Developer with a strong focus on MERN stack and Next.js technologies. I love turning complex problems into elegant, scalable web solutions that deliver real value to users and businesses.
+
+Alongside web development, I’m expanding my expertise in Data Science and Artificial Intelligence — exploring how data-driven insights and predictive analytics can enhance decision-making and empower intelligent digital systems.</p>
+
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I’m looking for **An opportunity where I can deliver my skills and innovative ideas as a Web Developer.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanka-Das-Dipa](https://github.com/Priyanka-Das-Dipa)
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **MERN Stack || Next.js**
 
 - 📫 How to reach me **priyankadipa9102@gmail.com**
 
@@ -30,6 +32,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-das-dipa-58327b285/)
 [![Facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/priyankadas.dipa.7/)
 [![Github](https://img.shields.io/badge/github-1A1F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanka-Das-Dipa)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/dipapriyanka24)
+
 
 # 💻 Projects:
 
