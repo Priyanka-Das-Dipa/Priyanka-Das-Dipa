@@ -1,4 +1,4 @@
-![Alt Text](assests/banner_image.png)
+![Alt Text](assests/banner.png)
 
 <h1 align="center">Hi 👋, I'm Priyanka Das Dipa</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
