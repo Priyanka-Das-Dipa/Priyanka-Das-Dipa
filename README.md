@@ -22,9 +22,40 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanka-Das-Dipa&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka-Das-Dipa&theme=dark)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev) -->
+
+### 🎨 Frontend Development
+
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,vite)](https://skillicons.dev)
+
+### ⚙️ Backend Development
+
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mongoose,firebase)](https://skillicons.dev)
+
+### 🔌 Real-Time Communication
+
+[![Socket Skills](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+
+### 🎯 UI / Styling
+
+[![UI Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</p>
+
+### 🛠 Version Control & Deployment
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vercel,netlify)](https://skillicons.dev)
+
+### 💻 Development Environment
+
+[![Environment](https://skillicons.dev/icons?i=vscode,windows,postman)](https://skillicons.dev)
 
 ## 🔗Socials Links
 
