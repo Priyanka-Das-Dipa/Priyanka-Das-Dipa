@@ -24,7 +24,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ## 💻 Tech Stack & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev) -->
 
 ### 🎨 Frontend Development
 
@@ -40,7 +40,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ### 🎯 UI / Styling
 
-[![UI Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+<!-- [![UI Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
