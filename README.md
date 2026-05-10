@@ -36,21 +36,6 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 # 💻 Projects:
 
-# Library Service Management (group project)
-
-## 🔗 Live Links
-
-https://library-service-management-system.vercel.app/
-
-#### Features of the project:
-
-- Fully integrated lending page with navbar, banner, recommended and featured books, author section, and footer.
-- Stripe integration for subscription payments in the pricing route.
-- Backend pagination and search functionality for the all books page.
-- Dynamic display of author's books on details page.
-- Admin dashboard for managing users, books, writers, book requests, and membership requests.
-- Implemented secure user authentication system with login functionality, save user's info in database.
-
 # Gardening Tips and Tricks (Nextjs)
 
 ## 🔗 Live Links
@@ -113,6 +98,21 @@ https://github.com/Priyanka-Das-Dipa/Course_Management_System-
 - class-validator
 - class-transformer
 
+# Library Service Management (group project)
+
+## 🔗 Live Links
+
+https://library-service-management-system.vercel.app/
+
+#### Features of the project:
+
+- Fully integrated lending page with navbar, banner, recommended and featured books, author section, and footer.
+- Stripe integration for subscription payments in the pricing route.
+- Backend pagination and search functionality for the all books page.
+- Dynamic display of author's books on details page.
+- Admin dashboard for managing users, books, writers, book requests, and membership requests.
+- Implemented secure user authentication system with login functionality, save user's info in database.
+
 # Technology_And_Electronic
 
 ## 🔗 Live Links
@@ -126,29 +126,3 @@ https://technology-and-electroni-8514d.firebaseapp.com/
 - There is a Add product route for registered user can add data to the Database.
 - There is Add to Card option where user can add there product.
 - They can see their add to card product in Add Card route.
-
-# The Career Maker
-
-## 🔗 Live Links
-
-https://the-career-maker.web.app
-
-#### Features of the project:
-
-- This is a online service based website
-- There are some popular services
-- User can search the services by the name of a service
-- User can update and delete the services
-- User can check their schedule in the mySchedule route
-
-# Summer Sale
-
-## 🔗 Live Links
-
-https://summer-sale-green.vercel.app/
-
-#### Features of the project:
-
-- In this course registration project When you click the submit button the Price add to the cart.
-- In this course registration project When you click the submit button the credit hour add to the cart.
-- In this course registration project When you click the submit button the remaining hour show to the cart.
