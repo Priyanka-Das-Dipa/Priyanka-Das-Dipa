@@ -32,11 +32,11 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ### ⚙️ Backend Development
 
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mongoose,firebase)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,firebase,mongoose)](https://skillicons.dev)
 
-### 🔌 Real-Time Communication
+<!-- ### 🔌 Real-Time Communication
 
-[![Socket Skills](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev)
+[![Socket Skills](https://skillicons.dev/icons?i=socketio)](https://skillicons.dev) -->
 
 ### 🎯 UI / Styling
 
@@ -46,7 +46,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 🛠 Version Control & Deployment
