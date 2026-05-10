@@ -24,7 +24,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ## 💻 Tech Stack & Tools:
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev)
 
 ### 🎨 Frontend Development
 
