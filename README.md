@@ -79,6 +79,40 @@ https://meeting-room-client-beta.vercel.app/
 - Search, Filter, and Sort Rooms – Find rooms easily based on name, amenities, capacity, and time slots.
 - Responsive UI – Modern and professional design with Ant Design and Tailwind CSS for all devices.
 
+# Course Management System API (Nest js Backend Project)
+
+A scalable backend API built with NestJS and MongoDB for managing users, courses, lessons, and student enrollments.  
+This project demonstrates authentication, authorization, relational data modeling, pagination, search, and modular backend architecture using industry-standard practices.
+
+## 🔗 GitHub Repository
+
+https://github.com/Priyanka-Das-Dipa/Course_Management_System-
+
+## 🚀 Features of the Project
+
+- JWT Authentication & Refresh Tokens – Secure user authentication using Passport JWT strategy and bcrypt password hashing.
+- Role-Based Access Control (RBAC) – Separate Instructor and Student roles with protected routes and authorization guards.
+- Course Management System – Instructors can create, update, delete, and manage courses efficiently.
+- Student Enrollment System – Students can enroll in courses and manage their enrolled courses.
+- Lesson Management Module – Create and manage lessons under specific courses with proper relational data handling.
+- Pagination & Search Functionality – Optimized scalable data retrieval with pagination and course searching.
+- DTO Validation & Request Sanitization – Request validation using class-validator and secure MongoDB ObjectId validation.
+- Modular Scalable Architecture – Clean NestJS module-based architecture following industry best practices.
+- MongoDB & Mongoose Integration – Structured schema modeling and efficient database relationships.
+- Secure Backend Development – Password hashing, protected APIs, reusable services, and scalable backend structure.
+
+## 🛠 Technologies Used
+
+- TypeScript
+- NestJS
+- MongoDB
+- Mongoose
+- JWT Authentication
+- Passport.js
+- bcrypt
+- class-validator
+- class-transformer
+
 # Technology_And_Electronic
 
 ## 🔗 Live Links
