@@ -22,6 +22,10 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanka-Das-Dipa&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanka-Das-Dipa&theme=dark)
 
+## 📈 Contribution Graph
+
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&theme=react-dark&hide_border=true)](https://github.com/Priyanka-Das-Dipa)
+
 ## 💻 Tech Stack & Tools:
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,firebase,git,github,mongodb,tailwind,vercel,vite,nodejs,typescript,mongoose)](https://skillicons.dev) -->
