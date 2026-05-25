@@ -24,7 +24,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 ## 📈 Contribution Graph
 
-[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&bg_color=080808&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Priyanka-Das-Dipa)
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&bg_color=242323&color=58A6FA&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Priyanka-Das-Dipa)
 
 ## 💻 Tech Stack & Tools:
 
