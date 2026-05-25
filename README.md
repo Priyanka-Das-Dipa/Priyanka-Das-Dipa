@@ -26,7 +26,7 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
 
 [![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&theme=react-dark)](https://github.com/Priyanka-Das-Dipa)
 
-<!-- [![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&bg_color=242323&color=58A6FA&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Priyanka-Das-Dipa) -->
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanka-Das-Dipa&bg_color=242323&color=58A6FA&line=58A6FF&point=C9D1D9&area=true&hide_border=true)](https://github.com/Priyanka-Das-Dipa)
 
 ## 💻 Tech Stack & Tools:
 
@@ -52,8 +52,8 @@ Alongside web development, I’m expanding my expertise in Data Science and Arti
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### 🛠 Version Control & Deployment
